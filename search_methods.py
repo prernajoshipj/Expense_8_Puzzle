@@ -1,5 +1,3 @@
-#Name: Prerna Joshi
-#UTA ID: 1002127280
 
 import heapq
 from collections import deque
