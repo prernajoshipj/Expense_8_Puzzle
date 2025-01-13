@@ -1,5 +1,4 @@
-#Name: Prerna Joshi
-#UTA ID: 1002127280
+
 
 def read_puzzle(file):
     puzzle = []
