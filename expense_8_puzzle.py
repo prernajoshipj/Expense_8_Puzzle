@@ -1,5 +1,4 @@
-#Name: Prerna Joshi
-#UTA ID: 1002127280
+
 import sys
 #import datetime
 from puzzle_utils import read_puzzle
